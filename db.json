@@ -121,7 +121,6 @@
     ]
   }
 ],
-// UTC con horario de verano
   "ciudades": [{
     "ciudad" : "Madrid",
     "id" : 1,
